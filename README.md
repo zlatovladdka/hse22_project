@@ -39,3 +39,5 @@ Colab R: https://colab.research.google.com/drive/1UuePkMBWzNJMI5RP0VFtv6-dELfauH
 Ни один из кластеров не прошёл отбор на сохранение Z-DNA. 
 
 ## Бонус
+
+Файлы, сгенерированные в R, лежат в папке data. 

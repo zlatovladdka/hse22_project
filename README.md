@@ -23,6 +23,11 @@ Colab R: https://colab.research.google.com/drive/1UuePkMBWzNJMI5RP0VFtv6-dELfauH
 ![ins](/img/ins.png)
 ![ite](/img/ite.png)
 
+### Расположение Z-ДНК
+| _Gordonia alkanivorans_ | _Gordonia amarae_ | _Gordonia bronchialis DSM 43247_ |  К_Gordonia insulae_  | _Gordonia iterans_ |
+|:-----:|:-------:|:--------:|:-------:|:-------:|
+|![alk_g](/img/alk_g.png)|![ama_g](/img/ama_g.png)|![bro_g](/img/bro_g.png)|![ins_g](/img/ins_g.png)|![ite](/img/ite_g.png)|
+
 
 ## Кластеры 
 

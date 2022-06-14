@@ -37,3 +37,5 @@ Colab R: https://colab.research.google.com/drive/1UuePkMBWzNJMI5RP0VFtv6-dELfauH
 ![clusters](/img/clust.png)
 
 Ни один из кластеров не прошёл отбор на сохранение Z-DNA. 
+
+## Бонус

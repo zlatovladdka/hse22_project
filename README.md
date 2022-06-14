@@ -1,5 +1,8 @@
 # hse22_project
 
+Colab Python: https://colab.research.google.com/drive/1J9Ovn4BfZzKbfXSZeGDEqBSiq2EG8b5v?usp=sharing
+Colab R: https://colab.research.google.com/drive/1UuePkMBWzNJMI5RP0VFtv6-dELfauHRB?usp=sharing
+
 ## Выбранные организмы
 
 | Название организма |  Сборка  | Количество последовательностей | Общая длина |  Количество аннотированных генов  | Процент покрытия | Количество участков с ZH-Score > 500  | Общая длина участков с ZH-Score > 500 |

@@ -13,11 +13,11 @@
 
 ### Гистрограммы ZH-Score
 
-[alk](/img/alk.png)
-[ama](/img/ama.png)
-[bro](/img/bro.png)
-[ins](/img/ins.png)
-[ite](/img/ite.png)
+![alk](/img/alk.png)
+![ama](/img/ama.png)
+![bro](/img/bro.png)
+![ins](/img/ins.png)
+![ite](/img/ite.png)
 
 
 ## Кластеры 
@@ -25,4 +25,4 @@
 ### Всего кластеров: 4651
 ### Распределение по количеству видов
 
-[clusters](/img/clust.png)
+![clusters](/img/clust.png)

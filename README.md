@@ -43,4 +43,4 @@ Colab R: https://colab.research.google.com/drive/1UuePkMBWzNJMI5RP0VFtv6-dELfauH
 
 ## Бонус
 
-Файлы, сгенерированные R-колабе, лежат в папке data. 
+Файлы, сгенерированные в R-колабе, лежат в папке data. 

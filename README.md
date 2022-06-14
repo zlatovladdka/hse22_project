@@ -17,11 +17,7 @@ Colab R: https://colab.research.google.com/drive/1UuePkMBWzNJMI5RP0VFtv6-dELfauH
 
 ### Гистрограммы ZH-Score
 
-![alk](/img/alk.png)
-![ama](/img/ama.png)
-![bro](/img/bro.png)
-![ins](/img/ins.png)
-![ite](/img/ite.png)
+
 
 
 ## Кластеры 
